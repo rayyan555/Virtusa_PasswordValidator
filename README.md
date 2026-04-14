@@ -80,33 +80,30 @@ java PasswordValidator
 ---
 
 ##  Example
-
-
+```
 Enter your password: asdfg
-
 Password too short (minimum 8 characters are required)
-
 Please try again.
 
-Enter your password: adsgdjbfkfl
-
+Enter your password: adsgdjbfkf
 Missing an uppercase letter, you need at least one uppercase letter
-
 Please try again.
 
 Enter your password: RayyanZZZ
-
 Missing a digit, you need at least one digit
-
 Please try again.
 
 Enter your password: Rayyan903
-
 Password is strong and valid, you can use it.
 
-
+```
 ---
 
+## 📸 Output Screenshot
+
+![Output](images/output.png)
+
+---
 ##  Outcomes
 
 * Understanding string traversal using loops
