@@ -99,7 +99,7 @@ Password is strong and valid, you can use it.
 ```
 ---
 
-## 📸 Output Screenshot
+##  Output Screenshot
 
 ![Output](images/output.png)
 
